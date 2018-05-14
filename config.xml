@@ -5,10 +5,10 @@
 	id = "com.phonegap.app5"
 	version = "1.0.0">
 	
-	<name> app5 Advertencias del Dispositivo 2018 </name>
+	<name> app6 Batalla 5 de Mayo </name>
 	
 	<description>
-	Apilcacion que realiza la vibracion y beep del Dispositivo
+	 Batalla 5 de Mayo
 	</description>
 	
 	<author href ="https://build.phonepag.com" email="cb16.chantes.morales.monserrat@gmail.com">
